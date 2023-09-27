@@ -1,3 +1,5 @@
+# Linkedin job scraper
+Interested in using this scraper? Get it here: [Linkedin job scraper](https://apify.com/curious_coder/linkedin-jobs-search-scraper)
 ## Getting Started
 This scraper supports scraping 2 different versions of linkedin jobs search: 
 
